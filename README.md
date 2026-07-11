@@ -542,6 +542,7 @@ Simon Binder](https://github.com/simolus3)
 - [Heroine](https://pub.dev/packages/heroine) [?⭐] - The queen of hero transitions by [whynotmake.it].
 - [Motor](https://pub.dev/packages/motor) [?⭐] - Unified motion system for Flutter - physics-based springs and duration-based curves by [whynotmake.it]
 - [SpinKit](https://github.com/jogboms/flutter_spinkit) [3114⭐] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Dot Loader](https://github.com/hooshyar/flutter_dot_loader) - Zero-dependency dot-matrix / LED loading animations with 60 patterns, scrolling marquee text and custom pixel frames by [Hooshyar](https://github.com/hooshyar).
 - [Villains](https://github.com/Norbert515/flutter_villains) [366⭐] - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
 - [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) [1735⭐] - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) [505⭐] - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks).
